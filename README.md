@@ -20,4 +20,4 @@ For nearly eight years I have worked where AI meets healthcare:
 - [medharborai-website](https://github.com/medharborai/medharborai-website): source of [medharborai.com](https://medharborai.com) in five languages
 - [brand-assets](https://github.com/medharborai/brand-assets): official MedHarbor logos and colours
 
-📫 [LinkedIn](https://www.linkedin.com/in/pavlobulelik) · bulelik.pavlo@medharborai.com
+📫 [LinkedIn](https://www.linkedin.com/in/pavlobulelyk) · bulelyk.pavlo@medharborai.com
